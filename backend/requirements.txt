@@ -1,11 +1,11 @@
-echo fastapi==0.115.0 > requirements.txt
-echo uvicorn[standard]==0.30.0 >> requirements.txt
-echo python-dotenv==1.0.0 >> requirements.txt
-echo amadeus==8.1.0 >> requirements.txt
-echo groq==0.11.0 >> requirements.txt
-echo chromadb==0.5.0 >> requirements.txt
-echo sentence-transformers==3.0.0 >> requirements.txt
-echo langchain==0.3.0 >> requirements.txt
-echo langchain-community==0.3.0 >> requirements.txt
-echo pydantic==2.9.0 >> requirements.txt
-echo requests==2.32.0 >> requirements.txt
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+python-dotenv==1.0.0
+amadeus==8.1.0
+groq==0.11.0
+chromadb==0.5.0
+sentence-transformers==3.0.0
+langchain==0.3.0
+langchain-community==0.3.0
+pydantic==2.9.0
+requests==2.32.0
