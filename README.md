@@ -2,6 +2,9 @@
 
 > **Plan smarter. Travel better.**  
 > SoTrail is a full-stack travel planning application that combines real-time Amadeus flight & hotel data with Groq's Llama 3.3 70B AI for intelligent trip planning, personalized itinerary generation, and a RAG-powered travel chatbot.
+> <img width="1606" height="912" alt="Screenshot 2026-03-21 015012" src="https://github.com/user-attachments/assets/35c14344-cc75-48e6-b9f1-cd6cc6470145" />
+<img width="1910" height="912" alt="Screenshot 2026-03-21 014757" src="https://github.com/user-attachments/assets/4ded8c8c-4de2-4423-8eed-a5fc160ea7e3" />
+<img width="1886" height="918" alt="Screenshot 2026-03-21 014819" src="https://github.com/user-attachments/assets/8b3e8646-bae2-4b90-ab4b-1897dab414e5" />
 
 ---
 
