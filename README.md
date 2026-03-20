@@ -5,16 +5,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-| Service | URL |
-|---------|-----|
-| Frontend | [Vercel Deployment](https://vercel.com) |
-| Backend API | [Railway Deployment](https://railway.app) |
-| API Docs | `/docs` (Swagger UI) |
-
----
-
 ## ✨ Features
 
 | Feature | Description |
