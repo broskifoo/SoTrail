@@ -339,7 +339,9 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 ##  Author
 
-**Aryendra Pandey**
+**Aryendra Pandey** 
+**Debraj Das**
+
 
 - GitHub: [@broskifoo](https://github.com/broskifoo)
 - Project: [SoTrail](https://github.com/broskifoo/SoTrail)
