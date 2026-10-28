@@ -339,7 +339,7 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 ##  Author
 
-**Aryendra Pandey** 
+**Aryendra Pandey,** 
 **Debraj Das**
 
 
